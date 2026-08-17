@@ -29,17 +29,6 @@ The system uses an optimized **Bubble Sort** algorithm that triggers every time 
 
 ---
 
-## 🛠️ How to Compile & Run
-
-### 1. Compile the Code
-You will need a C compiler (like GCC) installed on your system.
-```bash
-gcc triage_system.c -o triage_system
-
-### 2. Run the Application
-Bash
-./triage_system
-
 ## ⚠️ Limitations
 * Capacity: The system is currently hardcoded for a maximum capacity of 100 patients[cite: 1].
 * Storage: Patient records are stored in temporary memory (RAM) and will be lost when the program closes[cite: 1].
